@@ -26,6 +26,6 @@ TODO
 
 ---------------------------
 
-
+**Note: We are in the process of open-sourcing.**
 
 
